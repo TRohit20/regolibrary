@@ -1,3 +1,3 @@
-kubescape/kubescape.io:
+TRohit20/kubescape.io:
   - source: docs/controls
     dest: docs/docs/controls/

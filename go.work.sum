@@ -200,6 +200,7 @@ github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5/go.mod h1:wHh0iHkY
 github.com/armosec/armoapi-go v0.0.98/go.mod h1:v7rUl9eo5qL3kHxiP8tFCyRYERUGPgm2rwTIqkVOouw=
 github.com/armosec/armoapi-go v0.0.191/go.mod h1:ANarxE0icSvdufFB1x3JAax7XKrWIKe8b/SvLnuDtGw=
 github.com/armosec/armoapi-go v0.0.210/go.mod h1:MSaFIxFu2ucjrY2RAzgasZbBlop+S7bNgRz5Q7iOmOc=
+github.com/armosec/armoapi-go v0.0.211/go.mod h1:4AEdwBrbS1YCAn/lZzV+cOOR9BPa0MTHYHiJDlR1uRQ=
 github.com/asaskevich/govalidator v0.0.0-20190424111038-f61b66f89f4a/go.mod h1:lB+ZfQJz7igIIfQNfa7Ml4HSf2uFQQRzpGGRXenZAgY=
 github.com/aws/aws-sdk-go v1.15.11/go.mod h1:mFuSZ37Z9YOHbQEwBWztmVzqXrEkub65tZoCYDt7FT0=
 github.com/aws/aws-sdk-go v1.43.16/go.mod h1:y4AeaBuwd2Lk+GepC1E9v0qOiTws0MIWAX4oIKwKHZo=
