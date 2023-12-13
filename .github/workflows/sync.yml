@@ -3,7 +3,7 @@ name: Sync Files
 on:
   push:
     branches:
-      - master
+      - Markdown-generation
     paths:
       - 'docs/controls/**'
   workflow_dispatch:
